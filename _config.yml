@@ -23,10 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Javier Vela Tambo"
-  pronouns         : "he/him"
+  pronouns         : 
   bio              : "Computer & Data Scientist"
   location         : "Zaragoza, Spain"
-  employer         : "Instituto Pirenaico de Ecología (IPE-CSIC) Spanish National Research Council"
+  employer         : | 
+    Instituto Pirenaico de Ecología (IPE-
+    CSIC) Spanish National Research Council
   uri              : 
   email            : "javier.vela00@gmail.com"
 
