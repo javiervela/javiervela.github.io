@@ -26,9 +26,7 @@ author:
   pronouns         : 
   bio              : "Computer & Data Scientist"
   location         : "Zaragoza, Spain"
-  employer         : 
-    name           : "IPE-CSIC"
-    url            : "https://www.ipe.csic.es"
+  employer         : <a href="https://www.ipe.csic.es">IPE-CSIC</a>
   uri              : 
   email            : "javier.vela00@gmail.com"
 
