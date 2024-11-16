@@ -26,9 +26,9 @@ author:
   pronouns         : 
   bio              : "Computer & Data Scientist"
   location         : "Zaragoza, Spain"
-  employer         : | 
-    Instituto Pirenaico de Ecología (IPE-
-    CSIC) Spanish National Research Council
+  employer         : 
+    name           : "IPE-CSIC"
+    url            : "https://www.ipe.csic.es"
   uri              : 
   email            : "javier.vela00@gmail.com"
 
