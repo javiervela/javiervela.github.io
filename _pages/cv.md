@@ -9,59 +9,107 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- TODO CV -->
+Updated December 2024
 
-<!-- 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- TODO do dynamically? -->
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work Experience 💼
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<!-- IPE -->
+<div style="display:flex;">
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  <div style="flex:0.5; padding-right:5%;">
+    <img src="{{ site.url }}/images/cv/IPE.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+  <div style="flex:4;">
+    <p style="margin:0;">
+      <b style="font-size: 130%;">Instituto Pirenaico de Ecología (IPE-CSIC)</b>
+      <span style="float:right; font-size:100%; color:#7a7a7a;">Jun 2024 - Present</span>
+    </p>
+    <p style="margin:0; color:#7a7a7a;">
+      Data Scientist, NLP
+    </p>
+    <ul style="margin:0; padding-left:20px;">
+      <li>Project on extreme weather impacts using ML & Big Data</li>
+      <li>Developed AI app for climate event impact extraction from news articles</li>
+      <li>Processed large datasets of news articles</li>
+    </ul>
+  </div>
+</div>
+<hr style="height:1em; margin:0; visibility:hidden;" />
+
+<!-- Ericsson -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%;">
+    <img src="{{ site.url }}/images/cv/ericsson.png" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0;">
+      <b style="font-size: 130%;">Ericsson</b>
+      <span style="float:right; font-size:100%; color:#7a7a7a;">Jul 2022 - Jun 2024</span>
+    </p>
+    <p style="margin:0; color:#7a7a7a;">
+      DevOps Engineer
+    </p>
+    <ul style="margin:0; padding-left:20px;">
+      <li>Developed CI/CD pipelines</li>
+      <li>Managed Cloud environments (AWS, Azure, VSphere)</li>
+      <li>Automated container environments (Kubernetes, Docker)</li>
+      <li>Researched multicloud automation with Terraform</li>
+      <li>Implemented security stages in pipelines</li>
+    </ul>
+  </div>
+</div>
+<hr style="height:1em; margin:0; visibility:hidden;" />
+
+# Education 🎓
+
+<!-- MS -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%;">
+    <img src="{{ site.url }}/images/cv/UIMP2.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0;">
+      <b style="font-size: 130%;">Universidad Internacional Menéndez Pelayo</b>
+      <span style="float:right; font-size:100%; color:#7a7a7a;">2024 - Present</span>
+    </p>
+    <p style="margin:0;">
+      MSc Artificial Intelligence Research
+    </p>
+  </div>
+</div>
+<hr style="height:1em; margin:0; visibility:hidden;" />
+
+<!-- BSc -->
+<div style="display:flex;">
+
+  <div style="flex:0.5; padding-right:5%;">
+    <img src="{{ site.url }}/images/cv/unizar2.jpg" style="align:left; border: 1px solid #d3d3d3; border-style: outset;">
+  </div>
+
+  <div style="flex:4;">
+    <p style="margin:0;">
+      <b style="font-size: 130%;">Universidad de Zaragoza</b>
+      <span style="float:right; font-size:100%; color:#7a7a7a;">Sep 2018 - Dec 2022</span>
+    </p>
+    <p style="margin:0;">
+      Bachelor's in Computer Engineering
+    </p>
+    <p style="margin:0; color:#7a7a7a;">
+      Zaragoza, Spain<br>
+      Computer Science Specialization<br>
+      Average Grade: 8.23 / 10<br>
+      Undergraduate Dissertation awarded with honors
+      <!-- TODO link to document -->
+    </p>
+  </div>
+</div>
+<hr style="height:2em; margin:0; visibility:hidden;" />
+
+
