@@ -6,6 +6,7 @@
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
+    padding-right: $right-sidebar-width-narrow;
     @include span(12 of 12);
   }
 
@@ -50,15 +51,34 @@
 
 /* remove border*/
 .page__content {
-
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
   }
 }
 
+.archive__item-subtitle {
+  margin-top: 1em;
+  border-bottom: none;
+  font-size: $type-size-syntax;
+
+  & + p {
+    text-indent: 0;
+  }
+}
+
 .archive__item-excerpt {
   margin-top: 0;
+  font-size: $type-size-6;
+
+  & + p {
+    text-indent: 0;
+  }
+}
+
+.archive__item-publication {
+  margin-top: 0;
+  margin-bottom: 0;
   font-size: $type-size-6;
 
   & + p {
@@ -84,29 +104,15 @@
   }
 }
 
-
 /*
    List view
    ========================================================================== */
 
 .list__item {
-  @include breakpoint($medium) {
-    padding-right: $right-sidebar-width-narrow;
-  }
-
-  @include breakpoint($large) {
-    padding-right: $right-sidebar-width;
-  }
-
-  @include breakpoint($x-large) {
-    padding-right: $right-sidebar-width-wide;
-  }
-
   .page__meta {
     margin: 0 0 4px;
   }
 }
-
 
 /*
    Grid view
@@ -150,7 +156,6 @@
     }
   }
 }
-
 
 /*
    Features
@@ -241,5 +246,14 @@
         width: span(7 of 12);
       }
     }
+  }
+}
+
+// this is already in custom but for some reason not seen
+.zoom {
+  /* default button */
+
+  &:hover {
+    transform: scale(1.25);
   }
 }
