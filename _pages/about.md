@@ -9,6 +9,8 @@ redirect_from:
 
 <!-- TODO About me -->
 
+Hello! I am Javier Vela.
+
 <!-- ## This website is work in progress. Please check back later -->
 
 <!--
