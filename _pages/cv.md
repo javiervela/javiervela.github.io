@@ -30,6 +30,10 @@ Updated August 2025
     <p style="margin:0;">
       PhD in Computer Science
     </p>
+    <p style="margin:0; color:#7a7a7a;">
+      Worcester, MA, USA<br>
+      Distributed Quantum Computing & Cloud Computing<br>
+    </p>
   </div>
 </div>
 <hr style="height:1em; margin:0; visibility:hidden;" />
