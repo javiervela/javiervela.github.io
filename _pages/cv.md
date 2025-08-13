@@ -9,7 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Updated August 2025
+<p style="margin:0; padding-bottom:1em;">
+  <a href="{{ site.url }}/files/cv.pdf" style="font-size:110%; color:#0073bb; font-weight:bold;" target="_blank">
+    📄 View my complete CV (PDF)
+  </a>
+</p>
+
+<p style="margin:0; padding-bottom:1em; color:#7a7a7a; font-size:95%;">
+  <em>Last updated: August 2025</em>
+</p>
 
 <!-- TODO do dynamically? -->
 
