@@ -4,7 +4,7 @@ authors_before: "M. López-Otal, F. Domínguez-Castro, B. Latorre,"
 authors_after: ", J. Gracia"
 # award:
 collection: publications
-permalink: /publication/2025_seqia.pdf
+permalink: /publication/2025_seqia
 tldr: SeqIA is a Python framework that uses advanced NLP to extract and classify drought impacts from Spanish news articles, providing structured data with locations and dates to support drought impact analysis.
 date: 2025-4-1
 venue: "Environmental Modelling & Software"
