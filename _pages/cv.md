@@ -56,7 +56,7 @@ redirect_from:
   <div style="flex:4;">
     <p style="margin:0;">
       <b style="font-size: 130%;">Universidad Internacional Menéndez Pelayo</b>
-      <span style="float:right; font-size:100%; color:#7a7a7a;">2024 - Present</span>
+      <span style="float:right; font-size:100%; color:#7a7a7a;">Oct 2024 - Sep 2025</span>
     </p>
     <p style="margin:0;">
       MSc Artificial Intelligence Research
