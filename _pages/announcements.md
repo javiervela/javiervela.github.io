@@ -1,5 +1,3 @@
-# Announcements
-
 Below you'll find a history of recent announcements.
 
 - 🌟 **Master's Thesis** _(September 2025)_: I successfully **completed my Master's degree** with the defense of my thesis and the presentation of my paper, _CienaLLM: Automated Extraction of Climate Impact from News Articles using Large Language Models_. You can find the publication in the [Publications](https://javiervelatambo.com/publications/) section of this website.
